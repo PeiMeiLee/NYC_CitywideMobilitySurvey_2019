@@ -11,7 +11,7 @@ The dataset comprises of five tables
 * Vehicle
 * People
 * Day
-###### The data is open source data collected by a consulting company named Resource Systems Group, Inc. (RSG), which was contracted by the New York City government for the CMS project.
+###### The data is open source data collected by a consulting company named [Resource Systems Group, Inc.](https://rsginc.com), which was contracted by the New York City government for the CMS project. All data files were accessed on November 8th, 2023 on [nyc.gov](https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml). The Geojson file for plotting the survey zones was accessed on Nov. 14th, 2023.
   
 ## Tools
 For this project, the following Python libraries were used:
