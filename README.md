@@ -24,5 +24,5 @@ For this project, the following Python libraries were used:
 For fixing errors in my scripts and optimizing my visualizations, I sought assistance from ChatGPT. 
 
 ## Project Report
-Click here to see the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
+Here is the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
 
