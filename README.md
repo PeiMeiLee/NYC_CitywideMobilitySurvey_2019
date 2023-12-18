@@ -1,5 +1,4 @@
 # New_York_Citywide_Mobility_Survey_2019
-![screenshot](assets/img/Screenshot 2023-12-15 at 23.06.40.png)
 This project was created as my final assignment for my Data Analytics bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
 ## Project Intro
 The New York City Department of Transportation conducted an annual travel survey named the Citywide Mobility Survey (CMS) between 2017 and 2020.
