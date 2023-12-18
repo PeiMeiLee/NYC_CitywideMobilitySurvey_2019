@@ -1,5 +1,6 @@
 # New_York_Citywide_Mobility_Survey_2019
 ![Photo by Tim Hüfner on Unsplash](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019/blob/main/01%20Project%20Management/tim-hufner-AqHQg1qwThw-unsplash.jpg)
+Photo by Tim Hüfner on Unsplash
 
 ## Background
 - This project was created as the final assignment for my bootcamp at CareerFoundry in 2023.
