@@ -15,7 +15,7 @@
 - Survey data collected and preprocessed by a consulting company RSG
 - Data source: [nyc.gov](https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml)
 
-The dataset comprises of five tables
+The dataset comprises of the following five tables:
 * Trips
 * Household
 * Vehicle
@@ -48,6 +48,7 @@ For fixing errors in my scripts and optimizing my visualizations, I sought assis
 ## Project Report
 Here is the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
 
-###### This project was created as my final assignment for my Data Analytics bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
-###### The data is open source data collected by a consulting company named [Resource Systems Group, Inc.](https://rsginc.com), which was contracted by the New York City government for the CMS project. All data files were accessed on November 8th, 2023 on [nyc.gov](https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml). The GeoJSON file for plotting the survey zones was accessed on Nov. 14th, 2023.
+## Notes
+- This project was created as my final assignment for my Data Analytics bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
+- The data set is open source data collected by a consulting company named [Resource Systems Group, Inc.](https://rsginc.com), which was contracted by the New York City government for the CMS project. All data files were accessed on November 8th, 2023 on [nyc.gov](https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml). The GeoJSON file for plotting the survey zones was accessed on Nov. 14th, 2023.
 
