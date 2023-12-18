@@ -1,14 +1,9 @@
 # New_York_Citywide_Mobility_Survey_2019
 ![title](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019/blob/main/01%20Project%20Management/tim-hufner-AqHQg1qwThw-unsplash.jpg)
 
-## Project Intro
-- The New York City Department of Transportation conducted an annual travel survey named the Citywide Mobility Survey (CMS) between 2017 and 2020.
-- It aims to assess the travel behavior, preferences, and attitudes of New York City residents.
-- This project focuses solely on the survey dataset of 2019.
-
-## My Tasks
-- Discover New York residents’ transportation needs and preferences via exploratory visual analysis and make suggestions for improvement
-- Examine the relationship between trip distance and trip duration via regression and clustering analysis
+## Background
+- This project was created as the final assignment for my bootcamp at CareerFoundry in 2023.
+- New York City has been a fascinating city for me in many ways. Continuing my interest in developing sustainable mobility solutions, I was excited to come across this dataset.
 
 ## Data
 - 5 CSV files and 1 GeoJSON file
@@ -21,7 +16,18 @@ The dataset comprises of the following five tables:
 * Vehicle
 * People
 * Day
-  
+
+## Context
+- The New York City Department of Transportation conducted an annual travel survey named the Citywide Mobility Survey between 2017 and 2020.
+- It aims to assess the travel behavior, preferences, and attitudes of New York City residents towards mobility issues.
+- This case study focuses solely on the survey dataset of 2019.
+- All participants are residents of New York City. 3.009 of the participants are presented in this analysis as a result of data preprocessing.
+- The survey took place between May and June, 2019.
+
+## Project Objectives
+- Goal #1: Discover trends and needs by studying New Yorkers' travel behavior, such as what mode of transportation is the most popular, how much time they spend on the subway everyday.
+- Goal #2: Examine two major components of this survey, namely the trip distance and the trip duration. I’ll explore the relationship and see if a linear regression model is fitting.
+
 ## Tools Used
 - Anaconda / Jupyter
 - Python 
