@@ -4,7 +4,7 @@ Photo by [Tim Hüfner](https://unsplash.com/@huefnerdesign?utm_content=creditCop
 
 ## Background
 - This project was created as the final project for my Data Analytics bootcamp studies at [CareerFoundry](https://careerfoundry.com) in 2023.
-- New York City has been a fascinating city for me in many ways. Continuing my interest in developing sustainable mobility solutions, I was excited to come across this dataset.
+- New York City has been a fascinating city for me in many ways. Continuing my interest in developing sustainable mobility solutions, I was excited to come across this dataset and performed my final case study on it.
 
 ## Data
 - 5 CSV files and 1 GeoJSON file
