@@ -3,7 +3,7 @@
 Photo by [Tim Hüfner](https://unsplash.com/@huefnerdesign?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash) on Unsplash
 
 ## Background
-- This project was created as the final assignment for my bootcamp at CareerFoundry in 2023.
+- This project was created as the final project for my Data Analytics bootcamp studies at [CareerFoundry](https://careerfoundry.com) in 2023.
 - New York City has been a fascinating city for me in many ways. Continuing my interest in developing sustainable mobility solutions, I was excited to come across this dataset.
 
 ## Data
@@ -56,6 +56,5 @@ For fixing errors in my scripts and optimizing my visualizations, I sought assis
 Here is the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
 
 ## Notes
-- This project was created as my final assignment for my Data Analytics bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
 - The data set is open source data collected by a consulting company named [Resource Systems Group, Inc.](https://rsginc.com), which was contracted by the New York City government for the CMS project. All data files were accessed on November 8th, 2023 on [nyc.gov](https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml). The GeoJSON file for plotting the survey zones was accessed on Nov. 14th, 2023.
 
