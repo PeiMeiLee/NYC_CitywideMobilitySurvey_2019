@@ -42,7 +42,7 @@ The dataset comprises of the following five tables:
 
 For fixing errors in my scripts and optimizing my visualizations, I sought assistance from ChatGPT. 
 
-## Key Skills
+## Skills Applied
 - Sourcing open data for own project
 - Exploratory visual analysis
 - Using Python to do the following:
