@@ -18,15 +18,16 @@ The dataset comprises of the following five tables:
 * People
 * Day
 
-## Context
-- The New York City Department of Transportation conducted an annual travel survey named the Citywide Mobility Survey between 2017 and 2020.
-- It aims to assess the travel behavior, preferences, and attitudes of New York City residents towards mobility issues.
-- This case study focuses solely on the survey dataset of 2019.
-- All participants are residents of New York City. 3.009 of the participants are presented in this analysis as a result of data preprocessing.
-- The survey took place between May and June, 2019.
-
-![NYC1](https://github.com/PeiMeiLee/portfolio/blob/main/assets/img/NYC_1.png)
-![NYC2](https://github.com/PeiMeiLee/portfolio/blob/main/assets/img/NYC_2.png)
+![NYC3](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E003.jpeg)
+![NYC4](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E004.jpeg)
+![NYC5](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E005.jpeg)
+![NYC6](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E006.jpeg)
+![NYC7](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E007.jpeg)
+![NYC8](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E008.jpeg)
+![NYC9](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E009.jpeg)
+![NYC10](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E010.jpeg)
+![NYC11](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E011.jpeg)
+![NYC12](https://github.com/PeiMeiLee/portfolio/blob/main/assets/NYC/%E2%80%8ENYC.%E2%80%8E012.jpeg)
 
 ## Project Report
 Here is the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
