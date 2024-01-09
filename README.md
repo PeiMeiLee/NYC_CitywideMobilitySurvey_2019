@@ -25,32 +25,7 @@ The dataset comprises of the following five tables:
 - All participants are residents of New York City. 3.009 of the participants are presented in this analysis as a result of data preprocessing.
 - The survey took place between May and June, 2019.
 
-## Project Objectives
-- Goal #1: Discover trends and needs by studying New Yorkers' travel behavior, such as what mode of transportation is the most popular, how much time they spend on the subway everyday.
-- Goal #2: Examine two major components of this survey, namely the trip distance and the trip duration. I’ll explore the relationship and see if a linear regression model is fitting.
-
-## Tools Used
-- Anaconda / Jupyter
-- Python 
-  - Pandas
-  - Numpy
-  - Seaborn
-  - Matplotlib
-- Excel
-- Tableau
-- GitHub
-
-For fixing errors in my scripts and optimizing my visualizations, I sought assistance from ChatGPT. 
-
-## Skills Applied
-- Sourcing open data for own project
-- Exploratory visual analysis
-- Using Python to do the following:
-  - Data cleaning & wrangling
-  - Creating correlation heatmap
-  - Regression analysis
-  - Clustering analysis
-- Tableau storyboard reporting
+![tools]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/PeiMeiLee/portfolio/blob/main/assets/img/NYC_1.png))
 
 ## Project Report
 Here is the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
