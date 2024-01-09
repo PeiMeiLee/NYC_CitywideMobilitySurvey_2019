@@ -25,7 +25,8 @@ The dataset comprises of the following five tables:
 - All participants are residents of New York City. 3.009 of the participants are presented in this analysis as a result of data preprocessing.
 - The survey took place between May and June, 2019.
 
-![tools]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/PeiMeiLee/portfolio/blob/main/assets/img/NYC_1.png))
+![NYC1](https://github.com/PeiMeiLee/portfolio/blob/main/assets/img/NYC_1.png)
+![NYC2](https://github.com/PeiMeiLee/portfolio/blob/main/assets/img/NYC_2.png)
 
 ## Project Report
 Here is the complete [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityCitywideMobilitySurvey2019/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
